@@ -369,7 +369,7 @@ html, body {
     position: absolute;
     top: 50%;
     left: 0;
-    
+    background :blue;
     margin-top: -40px;
     
     -webkit-animation: spin 3s linear infinite;
